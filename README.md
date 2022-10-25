@@ -1,6 +1,6 @@
-# Análise de Dados com Python
+# Análise de Dados e Machine Learning
 
-## Data Analytics with Python
+## Data Analytics and Machine Learning
 - Pandas; 
 - Numpy; 
 - Matplotlib;
